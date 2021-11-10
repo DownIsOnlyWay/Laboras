@@ -1,0 +1,5 @@
+Sausumos false 1900
+Oro false 1888
+Vandens true 2000
+Sausumos false 2010
+Vandens true 1200

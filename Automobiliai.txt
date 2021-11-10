@@ -1,0 +1,5 @@
+Sausumos false 1990 Audi 5 true
+Oro true 1989 BMW 5 true
+Vandens false 2010 Opel 5 false
+Sausumos true 2011 Opel 5 true
+Oro false 2012 Audi 5 false
